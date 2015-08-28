@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 4961944ea032d415198bea9652175d3d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - carrotPrefab: {fileID: 100000, guid: debd27fcee083418a99c821556f58888, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
